@@ -1,0 +1,1 @@
+A simple app to convert temperatures from Celsius to Fahrenheit to Kelvin and vice-versa. This iOS app was created in response to a project prompt by codementor.io: https://www.codementor.io/projects/mobile/temperature-converter-mobile-app-atx32h5e71.  
